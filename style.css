@@ -146,7 +146,14 @@ footer{
     
 
 }
-
+@media  screen  {
+    @media only screen and (max-width: 600px) {
+         .input-group{
+            width:60%;
+            height: 45px;
+        }
+      }
+}
 
 
 
